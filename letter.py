@@ -4,6 +4,6 @@ ck=['b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','v','w','x',
 if dk in vk:
   print("Vowel")
 elif(dk in ck):
-  print("Consonent")
+  print("Consonant")
 else:
-  print("Invalid")
+  print("invalid")
