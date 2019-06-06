@@ -1,5 +1,7 @@
-a=int(input())
-if(a%2==0):
+deepak=int(input())
+if(deepak%2==0):
   print("Even")
-else:
+elif(deepak%2!=0):
   print("Odd")
+else:
+  print("Invalid")
