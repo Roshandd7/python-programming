@@ -1,0 +1,5 @@
+dk=input()
+dk=dk.split()
+dk=list(map(int,dk))
+mk=max(dk)
+print(mk)
